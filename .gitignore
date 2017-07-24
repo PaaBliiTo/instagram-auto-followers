@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# private credentials
+credentials.json

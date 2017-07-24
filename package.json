@@ -1,0 +1,12 @@
+{
+	"name": "IG-bot",
+	"version": "0.1.0",
+	"description": "Instagram bot",
+	"main": "start.js",
+	"scripts": {
+		"start": "node start.js"
+	},
+	"dependencies": {
+		"instagram-private-api": "^0.6.0"
+	}
+}
